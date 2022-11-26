@@ -9,3 +9,4 @@ gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:9084ea8498eae3c6c
 gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
 gcr.io/ml-pipeline/visualization-server:2.0.0-alpha.3
 gcr.io/ml-pipeline/metadata-envoy:2.0.0-alpha.3
+gcr.io/ml-pipeline/mysql:5.7-debian
