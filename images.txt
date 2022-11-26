@@ -1,8 +1,8 @@
-k8s.gcr.io/pause:3.1
-k8s.gcr.io/heapster-influxdb-amd64:v1.3.3
-k8s.gcr.io/heapster-grafana-amd64:v4.4.3
-k8s.gcr.io/heapster-amd64:v1.5.2
-k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
-gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
-gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
-gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.7
+gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:93ff6e69357785ff97806945b284cbd1d37e50402b876a320645be8877c0d7b7
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:007820fdb75b60e6fd5a25e65fd6ad9744082a6bf195d72795561c91b425d016
+gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:75cfdcfa050af9522e798e820ba5483b9093de1ce520207a3fedf112d73a4686
+gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:23baa19322320f25a462568eded1276601ef67194883db9211e1ea24f21a0beb
+gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping-webhook@sha256:847bb97e38440c71cb4bcc3e430743e18b328ad1e168b6fca35b10353b9a2c22
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:f253b82941c2220181cee80d7488fe1cefce9d49ab30bdb54bcb8c76515f7a26
+gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:a705c1ea8e9e556f860314fe055082fbe3cde6a924c29291955f98d979f8185e
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:9084ea8498eae3c6c4364a397d66516a25e48488f4a9871ef765fa554ba483f0
