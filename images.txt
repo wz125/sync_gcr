@@ -11,3 +11,4 @@ gcr.io/ml-pipeline/visualization-server:2.0.0-alpha.3
 gcr.io/ml-pipeline/metadata-envoy:2.0.0-alpha.3
 gcr.io/ml-pipeline/mysql:5.7-debian
 docker.io/istio/proxyv2:1.14.1
+rancher/local-path-provisioner:master-head
