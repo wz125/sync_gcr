@@ -20,3 +20,4 @@ ubeflowkatib/katib-ui:v0.14.0
 kubeflowkatib/katib-db-manager:v0.14.0
 kubeflowkatib/katib-ui:v0.14.0
 wzs125/xxkatib-ui:v0.14.0
+kubeflownotebookswg/centraldashboard:v1.6.0
