@@ -17,3 +17,4 @@ kserve/models-web-app:v0.8.0
 kubeflowkatib/katib-controller:v0.14.0
 mysql:8.0.29
 ubeflowkatib/katib-ui:v0.14.0
+kubeflowkatib/katib-db-manager:v0.14.0
