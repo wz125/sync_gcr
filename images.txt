@@ -22,3 +22,4 @@ kubeflowkatib/katib-ui:v0.14.0
 wzs125/xxkatib-ui:v0.14.0
 kubeflownotebookswg/centraldashboard:v1.6.0
 kubeflownotebookswg/poddefaults-webhook:v1.6.0
+kubeflownotebookswg/notebook-controller:v1.6.0
