@@ -26,3 +26,4 @@ kubeflownotebookswg/notebook-controller:v1.6.0
 kubeflownotebookswg/jupyter-web-app:v1.6.0
 kubeflownotebookswg/kfam:v1.6.0
 kubeflownotebookswg/volumes-web-app:v1.6.0
+kubeflownotebookswg/tensorboards-web-app:v1.6.0
