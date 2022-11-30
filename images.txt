@@ -30,3 +30,4 @@ kubeflownotebookswg/tensorboards-web-app:v1.6.0
 gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
 kubeflow/training-operator:v1-e1434f6  
 kserve/kserve-controller:v0.8.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
