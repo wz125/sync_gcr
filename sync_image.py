@@ -21,14 +21,14 @@ def pull_image():
             sha256_name = name.split("@")
             new_name = sha256_name[0].split("/")[-1]
             tag = sha256_name[-1].split(":")[-1][0:6]
-            image = "wzs125/" + 'rancher-' +new_name + ":"+ tag
+            image = "wzs125/" + 'rancher274-' +new_name + ":"+ tag
             cmd = "docker tag {0}   {1}".format(name, image)
             subprocess.call("docker pull {}".format(name), shell=True)
             subprocess.run(["docker", "tag", name, image])
             subprocess.call("docker login -u wzs125 -p Wzs111111", shell=True)
             subprocess.call("docker push {}".format(image), shell=True)
         else:
-            new_name = "wzs125/" + 'rancher-' + name.split("/")[-1]
+            new_name = "wzs125/" + 'rancher274-' + name.split("/")[-1]
             cmd = "docker tag {0}   {1}".format(name, new_name)
             subprocess.call("docker pull {}".format(name), shell=True)
             subprocess.run(["docker", "tag", name, new_name])
