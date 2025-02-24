@@ -1,4 +1,1 @@
-istio/pilot:1.15.0
-istio/proxyv2:1.15.0
-kubernetesui/dashboard:v2.6.1
-
+docker.n8n.io/n8nio/n8n
