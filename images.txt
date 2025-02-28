@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n:1.80.3
+docker.n8n.io/n8nio/n8n:1.80.5
