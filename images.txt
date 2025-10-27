@@ -1,2 +1,3 @@
 mariadb:10.6
 extcloud:latest
+triliumnext/trilium:latest
