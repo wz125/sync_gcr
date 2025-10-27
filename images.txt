@@ -1,1 +1,2 @@
-docker.n8n.io/n8nio/n8n
+mariadb:10.6
+extcloud:latest
