@@ -1,3 +1,11 @@
-mariadb:10.6
-extcloud:latest
-triliumnext/trilium:latest
+elasticsearch:latest
+opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.7.4-x64-v3
+serenedb/serenedb:26.07.5
+oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
+oceanbase/seekdb:latest
+vastbase-g100-single-v1.4-3.0.9.31338-linux-x86_64:20260513112809
+infiniflow/sandbox-executor-manager:latest
+jaegertracing/jaeger:2.19.0
+pgsty/silo:RELEASE.2026-08-06T00-00-00Z
+mysql:8.0.40
